@@ -1,35 +1,23 @@
-# Jungian Acolyte Kotone (Persona 3 FemC Mod)
+# Jungian Huntress Yukari (ROR2 Persona 3 Mod)
 
-Oh, so this new character that I love playing is a lady with a naginata that summons the god of death.
+"You really...don't want to go back...?"
+No, Yukari. But I gladly went back to Blender to make sure you can look extra adorable in my favourite Roguelike.
+Making Yukari into another girl with a longbow was the answer all along.
 
-I wonder where I've seen that before. My Little tribute to my favourite game and my new favourite ROR2 character.
-
-
-
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianAcolyte\_Persona3\_Femc\_Mod/refs/heads/main/images/1.png)
-
-
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianHuntress_Persona3_Yukari_Mod/refs/heads/main/imagesYukari/1.png) 
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianHuntress_Persona3_Yukari_Mod/refs/heads/main/imagesYukari/2.png) 
 
 ## Dependencies
 
-* Hallowed Concepts DLC
-* BepInExPack.
 * R2API\_Skins
 * bbepis-BepInExPack
 
-
-
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianAcolyte\_Persona3\_Femc\_Mod/refs/heads/main/images/2.png)
-
-
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianHuntress_Persona3_Yukari_Mod/refs/heads/main/imagesYukari/3.png) 
 
 ## Credits and Thanks
 
-* Model downloaded from MythicSpeed's Deviantart (Export from Persona Q) https://www.deviantart.com/mythicspeed/art/Blender-Release-Persona-Q2-Protagonists-861209715
-* Rigged and adapted to Acolyte proportions by me
-* Thanks to Frosty Riskofrain (For literally carrying my ass through the process)
+* Model: Exported from Persona Q 2 and modified/upscaled/rigged by me.
+* SkeletalDelegate for giving me the wonderful idea
 
-
-
-![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianAcolyte\_Persona3\_Femc\_Mod/refs/heads/main/images/3.png)
+![A screenshot of the mod](https://raw.githubusercontent.com/WillyChonkers/JungianHuntress_Persona3_Yukari_Mod/refs/heads/main/imagesYukari/4.png) 
 
